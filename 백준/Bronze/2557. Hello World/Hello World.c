@@ -1,2 +1,1 @@
-#include <stdio.h>
-int main(){printf("Hello World!");}
+main(){puts("Hello World!");}
