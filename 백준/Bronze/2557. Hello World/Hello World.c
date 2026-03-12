@@ -1,1 +1,1 @@
-main(){write(1,"Hello World!",12);_exit(0);}
+main;__libc_start_main(){_exit(!write(1,"Hello World!",12));}
