@@ -1,1 +1,1 @@
-main(){puts("Hello World!");}
+main(){write(1,"Hello World!",12);_exit(0);}
